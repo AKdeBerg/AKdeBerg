@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ![profile](https://user-images.githubusercontent.com/7089345/99284825-f0642b00-2860-11eb-9b76-85b334ebcbf7.png)
 
-I'm a Web Developer who is passionate about learning and building stuffs. I am more of a team player, learning discussing tech together is my everday ritual. I write blogs in dev.to and also consumes a lots of those😁
+I'm a Web Developer who is passionate about learning and building stuffs. I am more of a team player, learning & discussing tech together is my everday ritual. I write blogs in dev.to and also consumes a lots of those😁
 
 - 🔭 I’m currently working on JavaScript stacks specially the MERN stack. I love C# a lot.
-- 🌱 I’m currently learning UI/UX, Color theory, Typography and never ending Front-end techs.
+- 🌱 I’m currently learning UI/UX, Color theory, Typography and the never ending Front-end techs.
 
 ## Where To Find Me
 You can find me in some of the most geeky places like dev.to, medium.com etc.</br>
