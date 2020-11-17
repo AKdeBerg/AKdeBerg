@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm a Web Developer who is passionate about learning and building stuffs. I am more of a team player, learning & discussing tech together is my everday ritual. I write blogs in dev.to and also consumes a lots of those😁
 
-- 🔭 I’m currently working on JavaScript stacks specially the MERN stack. I love C# a lot.
+- 🔭 I’m currently working on JavaScript stacks specially the MERN stack. By the way, I love C# a lot, my first true love. For DB I use SQL Server, MySQL, FireStore
 - 🌱 I’m currently learning UI/UX, Color theory, Typography and the never ending Front-end techs.
 
 ## Where To Find Me
